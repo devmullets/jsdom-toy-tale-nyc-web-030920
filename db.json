@@ -47,6 +47,114 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Garfield",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Otis",
+      "image": "https://www.rover.com/blog/wp-content/uploads/2019/11/shiba-dreamstime-960x540.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Garfield 4",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Garfield 3",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Garfield 3",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Garfield 3",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "Garfield 41",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "Garfield 32",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "name": "Garfield 77",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "name": "2",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "name": "4",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 19
+    },
+    {
+      "name": "54",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 20
+    },
+    {
+      "name": "22222",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 21
+    },
+    {
+      "name": "1234",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 22
+    },
+    {
+      "name": "123456789",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 23
+    },
+    {
+      "name": "Garfield",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 24
+    },
+    {
+      "name": "Garfield",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 25
+    },
+    {
+      "name": "Garfield",
+      "image": "https://vignette.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg/revision/latest?cb=20180421131132",
+      "likes": 0,
+      "id": 26
     }
   ]
 }
